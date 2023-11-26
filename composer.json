@@ -1,0 +1,11 @@
+{
+    "name": "kirill/php-vanilla-starterkit",
+    "description": "Starter kit for your new project based at PHP language.",
+    "type": "project",
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "php": "^8.2"
+    }
+}
